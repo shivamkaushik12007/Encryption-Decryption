@@ -13,4 +13,4 @@ This command must get data from the file road_to_treasure.txt, encrypt the data 
 
 `\jqhtrj%yt%m~ujwxpnqq&`
 
-###Clone the repository and then run the folder project in compiler directly
+### Clone the repository and then run the folder project in compiler directly
